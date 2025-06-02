@@ -1,4 +1,4 @@
-2025 DGIST ReinforementLearning Course Final Project
+2025 DGIST Reinforement Learning Course Final Project
 
 # KillFire: Forest Fire Suppression Simulator
 
