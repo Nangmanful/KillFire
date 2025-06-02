@@ -1,3 +1,5 @@
+2025 DGIST ReinforementLearning Course Final Project
+
 # KillFire: Forest Fire Suppression Simulator
 
 A multi-agent RL environment using PettingZoo and RLlib, simulating forest fire suppression by helicopter, drone, and groundcrew.
